@@ -2,5 +2,5 @@
 echo This app requires Python3
 pause 
 cd ..
-start .\"Character-Creator.exe"
+start .\"Character-Creater.exe"
 pause
